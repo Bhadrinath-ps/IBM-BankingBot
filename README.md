@@ -9,7 +9,6 @@ This project showcases an AI-powered banking chatbot named "Steve" developed usi
 - **Flask:** Backend framework for server-side logic.
 
 **Demo Link 🚀**
-
 Explore the interactive AI experience: [IBM Banking Bot Demo](https://bhadrinath-ps.github.io/IBM---Banking-Bot/templates/IBM.html)
 
 **Project Structure 📁**
