@@ -1,6 +1,6 @@
 # IBM Banking Bot - AI-Based Discourse 🤖💬
 
-##Overview 🌐
+## Overview 🌐
 This project showcases an AI-powered banking chatbot named "Steve" developed using IBM Watson Assistant, HTML, CSS, and Flask. Steve aims to enhance customer interactions in the banking industry by providing account guidance, answering general queries, addressing card services, clarifying net banking concerns, and guiding through loan processes.
 
 ## Technologies Used 🛠️
